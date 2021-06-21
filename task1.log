@@ -1,0 +1,400 @@
+INFO:root:Image test_images/1.jpg has been successfully sent. Session id: 9ce762eb-f995-4452-85e2-ab2ef7bb86c9
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is not done yet. 
+
+INFO:root:Asking server for session id 9ce762eb-f995-4452-85e2-ab2ef7bb86c9... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/1.jpg is done. 
+
+INFO:root:Image test_images/full_image.jpg has been successfully sent. Session id: e941027b-9947-4f09-9037-6c493ed6b59b
+
+INFO:root:Asking server for session id e941027b-9947-4f09-9037-6c493ed6b59b... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/full_image.jpg is not done yet. 
+
+INFO:root:Asking server for session id e941027b-9947-4f09-9037-6c493ed6b59b... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/full_image.jpg is not done yet. 
+
+INFO:root:Asking server for session id e941027b-9947-4f09-9037-6c493ed6b59b... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/full_image.jpg is not done yet. 
+
+INFO:root:Asking server for session id e941027b-9947-4f09-9037-6c493ed6b59b... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/full_image.jpg is not done yet. 
+
+INFO:root:Asking server for session id e941027b-9947-4f09-9037-6c493ed6b59b... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/full_image.jpg is not done yet. 
+
+INFO:root:Asking server for session id e941027b-9947-4f09-9037-6c493ed6b59b... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/full_image.jpg is not done yet. 
+
+INFO:root:Asking server for session id e941027b-9947-4f09-9037-6c493ed6b59b... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/full_image.jpg is not done yet. 
+
+INFO:root:Asking server for session id e941027b-9947-4f09-9037-6c493ed6b59b... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/full_image.jpg is not done yet. 
+
+INFO:root:Asking server for session id e941027b-9947-4f09-9037-6c493ed6b59b... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/full_image.jpg is not done yet. 
+
+INFO:root:Asking server for session id e941027b-9947-4f09-9037-6c493ed6b59b... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/full_image.jpg is not done yet. 
+
+INFO:root:Asking server for session id e941027b-9947-4f09-9037-6c493ed6b59b... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/full_image.jpg is done. 
+
+INFO:root:Image test_images/3.jpg has been successfully sent. Session id: 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is not done yet. 
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is not done yet. 
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is not done yet. 
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is not done yet. 
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is not done yet. 
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is not done yet. 
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is not done yet. 
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is not done yet. 
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is not done yet. 
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is not done yet. 
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is not done yet. 
+
+INFO:root:Asking server for session id 4f3d4e1e-70eb-4bc9-82d2-f9abe7f2cacd... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/3.jpg is done. 
+
+INFO:root:Image test_images/4.jpg has been successfully sent. Session id: 46c79f38-5b01-447f-b4b3-e96a1ef6e196
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is not done yet. 
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is not done yet. 
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is not done yet. 
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is not done yet. 
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is not done yet. 
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is not done yet. 
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is not done yet. 
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is not done yet. 
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is not done yet. 
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is not done yet. 
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is not done yet. 
+
+INFO:root:Asking server for session id 46c79f38-5b01-447f-b4b3-e96a1ef6e196... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/4.jpg is done. 
+
+INFO:root:Image test_images/dsdfds.jpg has been successfully sent. Session id: 1008a6f5-cf49-48f2-b891-57ec5c5bc08f
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is not done yet. 
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is not done yet. 
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is not done yet. 
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is not done yet. 
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is not done yet. 
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is not done yet. 
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is not done yet. 
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is not done yet. 
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is not done yet. 
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is not done yet. 
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is not done yet. 
+
+INFO:root:Asking server for session id 1008a6f5-cf49-48f2-b891-57ec5c5bc08f... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/dsdfds.jpg is done. 
+
+INFO:root:Image test_images/2.jpg has been successfully sent. Session id: 03b1c452-22a9-47cf-9bbd-e820a88a6ece
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is not done yet. 
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is not done yet. 
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is not done yet. 
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is not done yet. 
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is not done yet. 
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is not done yet. 
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is not done yet. 
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is not done yet. 
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is not done yet. 
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is not done yet. 
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is not done yet. 
+
+INFO:root:Asking server for session id 03b1c452-22a9-47cf-9bbd-e820a88a6ece... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/2.jpg is done. 
+
+INFO:root:Image test_images/rtw54646.jpg has been successfully sent. Session id: b6c8c1de-e8d3-4461-a203-419d03716c94
+
+INFO:root:Asking server for session id b6c8c1de-e8d3-4461-a203-419d03716c94... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/rtw54646.jpg is not done yet. 
+
+INFO:root:Asking server for session id b6c8c1de-e8d3-4461-a203-419d03716c94... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/rtw54646.jpg is not done yet. 
+
+INFO:root:Asking server for session id b6c8c1de-e8d3-4461-a203-419d03716c94... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/rtw54646.jpg is not done yet. 
+
+INFO:root:Asking server for session id b6c8c1de-e8d3-4461-a203-419d03716c94... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/rtw54646.jpg is not done yet. 
+
+INFO:root:Asking server for session id b6c8c1de-e8d3-4461-a203-419d03716c94... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/rtw54646.jpg is not done yet. 
+
+INFO:root:Asking server for session id b6c8c1de-e8d3-4461-a203-419d03716c94... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/rtw54646.jpg is not done yet. 
+
+INFO:root:Asking server for session id b6c8c1de-e8d3-4461-a203-419d03716c94... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/rtw54646.jpg is not done yet. 
+
+INFO:root:Asking server for session id b6c8c1de-e8d3-4461-a203-419d03716c94... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/rtw54646.jpg is not done yet. 
+
+INFO:root:Asking server for session id b6c8c1de-e8d3-4461-a203-419d03716c94... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/rtw54646.jpg is not done yet. 
+
+INFO:root:Asking server for session id b6c8c1de-e8d3-4461-a203-419d03716c94... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/rtw54646.jpg is done. 
+
+INFO:root:Image test_images/5.jpg has been successfully sent. Session id: e398a340-77e1-4a4d-ac54-f343e7edf965
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is not done yet. 
+
+INFO:root:Asking server for session id e398a340-77e1-4a4d-ac54-f343e7edf965... 
+INFO:root:Success! 
+INFO:root:Processing of image test_images/5.jpg is done. 
+
